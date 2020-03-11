@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Koin playground</string>
+    <string name="viewmodel_text">Text from ViewModel!</string>
+</resources>
